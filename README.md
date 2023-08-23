@@ -16,6 +16,7 @@ The top 5 most reviewed cafes are:
 * Brown Sugar (6 reviews)
 * Cafe Coffee Day (6 reviews)
 * Express Cafe (6 reviews)
+
 The most commonly offered cuisines are Cafe, Fast Food, Desserts, and Beverages.
 
 ### Distribution of cafes across different cities:
