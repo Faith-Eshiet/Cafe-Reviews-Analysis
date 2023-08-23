@@ -32,7 +32,7 @@ The most commonly offered cuisines are Cafe, Fast Food, Desserts, and Beverages.
 * Mumbai: 1 cafe
 
 ### Average Cost Analysis
-The average cost for two people across all cafes is 796.
+The average cost for two people across all cafes is 796.\
 The average cost for two varies across different cities:
 * Mumbai: 1500
 * Chandigarh: 949
