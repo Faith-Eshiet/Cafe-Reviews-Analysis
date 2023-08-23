@@ -4,12 +4,12 @@
 This report presents the findings of an analysis conducted on a dataset containing reviews and information about cafes. The goal of this project was to extract insights and trends from the dataset to better understand customer sentiments, cafe ratings, and various attributes associated with cafes. The analysis was performed using SQL queries on a Microsoft SQL Server.
 
 ### Overview Statistics
-The dataset consists of 775 reviews.
-The average overall rating provided by reviewers is 3.8.
+The dataset consists of 775 reviews.\
+The average overall rating provided by reviewers is 3.8.\
 The highest overall rating given is 4.9, and the lowest is 2.5.
 
 ### Distribution of Cafes and Cuisines
-The dataset includes 299 unique cafes.
+The dataset includes 299 unique cafes.\
 The top 5 most reviewed cafes are:
 * The Chocolate Room (11 reviews)
 * Blue Tokai Coffee Roasters (6 reviews)
@@ -17,6 +17,7 @@ The top 5 most reviewed cafes are:
 * Cafe Coffee Day (6 reviews)
 * Express Cafe (6 reviews)
 The most commonly offered cuisines are Cafe, Fast Food, Desserts, and Beverages.
+
 ### Distribution of cafes across different cities:
 * Bangalore: 63 cafes
 * Pune: 53 cafes
@@ -43,7 +44,7 @@ The average cost for two varies across different cities:
 * Ahmedabad: 765
 * Pune: 738
 
-### Sentiment Analysis\
+### Sentiment Analysis
 Positive reviews: 39%\
 Neutral reviews: 57%\
 Negative reviews: 4%
